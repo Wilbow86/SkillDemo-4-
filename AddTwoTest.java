@@ -5,6 +5,6 @@ public class AddTwoTest{
 
     @Test
     public void testAdd(){
-        assertEquals(AddTwo.add(2, 3), 6);
+        assertEquals(AddTwo.add(2, 3), 5);
     }
 }
